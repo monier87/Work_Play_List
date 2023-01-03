@@ -15,6 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from pages.urls import pages_patterns
 
 
 urlpatterns = [
@@ -22,7 +23,7 @@ urlpatterns = [
     path('', include('core.urls')),
     
      #paths Pages
-    path('pages/', include('pages.urls')),
+    path('pages/', include(pages_patterns)),
     
     #paths Admin
     path('admin/', admin.site.urls),
