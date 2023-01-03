@@ -21,6 +21,9 @@ urlpatterns = [
     #paths Core
     path('', include('core.urls')),
     
+     #paths Pages
+    path('pages/', include('pages.urls')),
+    
     #paths Admin
     path('admin/', admin.site.urls),
 ]
