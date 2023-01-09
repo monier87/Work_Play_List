@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: carlos.monier87@gmail.com
+Date: Sun, 08 Jan 2023 23:49:47 -0000
+Message-ID: <167322178779.8840.1550994804965526614@DAVINA-PC>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MQ/bhpyuz-5c0eac4d6babe80d21d1b44a780b42a8/
+
+Your username, in case you’ve forgotten: administrador
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
